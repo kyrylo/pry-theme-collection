@@ -7,5 +7,5 @@ Screenshot information:
 |:-----------------------|:----------------------
 | Font                   | Terminus
 | Font size              | 10
-| Foreground color (RGB) | #839496
-| Background color (RGB) | #002b36
+| Foreground color (HEX) | #839496
+| Background color (HEX) | #002b36
