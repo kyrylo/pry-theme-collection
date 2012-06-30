@@ -36,6 +36,8 @@ Steps:
    your Pry Theme);
 2. Take a screenshot of your theme and put it in the same directory. The
    screenshot must have name `screenshot.png`. 
+
+   ProTip: `pry-theme --test` command simplifies life a lot.
 3. Append README file. Feel free to write README contents the way you like.
    On the merits, it would be awesome, if you describe your screenshot (the
    font and its size and background color you used there).
