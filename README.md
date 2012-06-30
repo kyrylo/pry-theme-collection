@@ -9,6 +9,18 @@ Description
 Pry Theme Collection is a compilation of themes for [Pry Theme][pt] plugin for
 [Pry][pry] REPL.
 
+Installation
+------------
+
+* On GNU/Linux
+
+    Download theme and put it in `$XDG_CONFIG_HOME/pry-theme` directory.
+
+* On Mac OS
+
+    Download theme and put in `$HOME/Library/Application Support/pry-theme` directory.
+
+
 Contribution guide
 ------------------
 
