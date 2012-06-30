@@ -1,7 +1,7 @@
 ---
 meta:
   theme-name  : solarized
-  version     : 1
+  version     : 2
   color-depth : 256
   description : Based on Ethan Schoonover's Solarized
   author      : Kyrylo Silin <kyrylosilin@gmail.com>
@@ -16,22 +16,22 @@ theme:
   global_variable     : azure01
   instance_variable   : azure01
   integer             : robin_egg_blue01
-  keyword             : (b)
+  keyword             : gray03 (b)
   method              : azure01
   predefined_constant : azure01
   regexp:
-    self          : tenne
-    content       : olive_drab
-    delimiter     : titian
-    modifier      : titian
-    function      : black
+    self              : tenne
+    content           : olive_drab
+    delimiter         : titian
+    modifier          : titian
+    function          : black
   shell:
-    self          :
-    content       : robin_egg_blue01
-    delimiter     : titian
+    self              :
+    content           : robin_egg_blue01
+    delimiter         : titian
   string:
-    self          : robin_egg_blue01
-    modifier      :
-    escape        :
-    delimiter     : titian
-  symbol          : robin_egg_blue01
+    self              : robin_egg_blue01
+    modifier          :
+    escape            :
+    delimiter         : titian
+  symbol              : robin_egg_blue01
