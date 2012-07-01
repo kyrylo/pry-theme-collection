@@ -12,14 +12,8 @@ Pry Theme Collection is a compilation of themes for [Pry Theme][pt] plugin for
 Installation
 ------------
 
-* On GNU/Linux
-
-    Download theme and put it in `$XDG_CONFIG_HOME/pry-theme` directory.
-
-* On Mac OS
-
-    Download theme and put in `$HOME/Library/Application Support/pry-theme` directory.
-
+* On GNU/Linux and Mac OS
+    Put your theme file in `$HOME/.pry/themes` directory.
 
 Contribution guide
 ------------------
