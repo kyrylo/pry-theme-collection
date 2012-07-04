@@ -1,0 +1,37 @@
+---
+meta:
+  theme-name  : wombat
+  version     : 1
+  color-depth : 256
+  description : Dark gray color scheme sharing some similarities with Desert
+  author      : Kyrylo Silin <kyrylosilin@gmail.com>, Lars Nielsen
+
+theme:
+  class               : pistachio04
+  class_variable      : (d)
+  comment             : wet_asphalt07
+  constant            : dark_salmon
+  error               : anthracite (i) on red
+  float               : dark_salmon
+  global_variable     : (d)
+  instance_variable   : (d)
+  integer             : dark_salmon
+  keyword             : dark_salmon
+  method              : pistachio04
+  predefined_constant : cornflower_blue03
+  regexp:
+    self              : (d)
+    content           : pale_green02
+    delimiter         : (d)
+    modifier          : (d)
+    function          : (d)
+  shell:
+    self              : pale_green02
+    content           : pale_green02
+    delimiter         : (d)
+  string:
+    self              : pale_green02
+    modifier          : pale_green02
+    escape            : pale_green02
+    delimiter         : pale_green02
+  symbol              : dark_salmon (b)
