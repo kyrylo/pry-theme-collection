@@ -15,6 +15,11 @@ Installation
 * On GNU/Linux and Mac OS
     Put your theme file in `$HOME/.pry/themes` directory.
 
+You can install a theme from the Collection via Pry Theme's CLI interface. For
+example, you can install tomorrow-night theme like so:
+
+    pry-theme -i tomorrow-night
+
 Contribution guide
 ------------------
 
