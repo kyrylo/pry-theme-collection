@@ -1,0 +1,37 @@
+---
+meta:
+  theme-name  : autumn
+  version     : 1
+  color-depth : 256
+  description : Inspired by the colors you can find in the autumn
+  author      : Kyrylo Silin <kyrylosilin@gmail.com>
+
+theme:
+  class               : chestnut01
+  class_variable      : bluish02
+  comment             : wet_asphalt07
+  constant            : lemon_cream
+  error               : white (i)
+  float               : dark_tea_green
+  global_variable     : bluish02
+  instance_variable   : bluish02
+  integer             : dark_tea_green
+  keyword             : chestnut01
+  method              : flax
+  predefined_constant : azure01
+  regexp:
+    self              : brass02
+    content           : brass02
+    delimiter         : brass02
+    modifier          : brass02
+    function          : brass02
+  shell:
+    self              : asparagus
+    content           : asparagus
+    delimiter         : asparagus
+  string:
+    self              : asparagus
+    modifier          : asparagus
+    escape            : asparagus
+    delimiter         : asparagus
+  symbol              : brass02
