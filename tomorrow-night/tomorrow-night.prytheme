@@ -1,7 +1,7 @@
 ---
 meta:
   theme-name:   "Tomorrow-Night"
-  version:      0.0.1
+  version:      3
   color-depth:  256
   description:  "Chris Kempson's excellent Tomorrow Night theme, ported to pry! You should have Tomorrow-Night colors as your terminal colors, else it will look wrong"
   author:       "Jeff Sandberg <paradox460@gmail.com>"
