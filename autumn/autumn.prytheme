@@ -1,13 +1,13 @@
 ---
 meta:
   theme-name  : autumn
-  version     : 1
+  version     : 2
   color-depth : 256
   description : Inspired by the colors you can find in the autumn
   author      : Kyrylo Silin <kyrylosilin@gmail.com>
 
 theme:
-  class               : chestnut01
+  class               : (d)
   class_variable      : bluish02
   comment             : wet_asphalt07
   constant            : lemon_cream
@@ -18,7 +18,7 @@ theme:
   integer             : dark_tea_green
   keyword             : chestnut01
   method              : flax
-  predefined_constant : azure01
+  predefined_constant : (d)
   regexp:
     self              : brass02
     content           : brass02
