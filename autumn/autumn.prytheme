@@ -4,16 +4,17 @@ meta:
   version     : 2
   color-depth : 256
   description : Inspired by the colors you can find in the autumn
-  author      : Kyrylo Silin <kyrylosilin@gmail.com>
+  author      : Kyrylo Silin <kyrylosilin@gmail.com>,
+                Yorick Peterse <yorickpeterse@gmail.com>
 
 theme:
   class               : (d)
   class_variable      : bluish02
   comment             : wet_asphalt07
   constant            : lemon_cream
-  error               : white (i)
+  error               : lemon_cream on chestnut01
   float               : dark_tea_green
-  global_variable     : bluish02
+  global_variable     : lemon_cream
   instance_variable   : bluish02
   integer             : dark_tea_green
   keyword             : chestnut01
