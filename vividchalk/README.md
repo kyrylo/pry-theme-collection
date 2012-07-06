@@ -1,6 +1,8 @@
 Vividchalk for Pry
 ==================
 
+![Screenshot](/kyrylo/pry-theme-collection/raw/master/vividchalk/screenshot.png)
+
 Screenshot information:
 
 | Attribute              | Value
