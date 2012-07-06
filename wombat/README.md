@@ -1,6 +1,8 @@
 Wombat for Pry
 ==============
 
+![Screenshot](/kyrylo/pry-theme-collection/raw/master/wombat/screenshot.png)
+
 Screenshot information:
 
 | Attribute              | Value
