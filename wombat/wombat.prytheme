@@ -31,7 +31,7 @@ theme:
     delimiter         : (d)
   string:
     self              : pale_green02
-    content           :
+    content           : pale_green02
     modifier          : pale_green02
     escape            : pale_green02
     delimiter         : pale_green02

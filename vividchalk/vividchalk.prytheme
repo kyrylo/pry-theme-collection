@@ -1,7 +1,7 @@
 ---
 meta:
   theme-name  : vividchalk
-  version     : 1
+  version     : 2
   color-depth : 256
   description : Based on the Vibrant Ink theme
   author      : Kyrylo Silin <kyrylosilin@gmail.com>, Tim Pope
@@ -31,7 +31,7 @@ theme:
     delimiter         : bright_green
   string:
     self              : bright_green
-    content           :
+    content           : bright_green
     modifier          : bright_green
     escape            : bright_green
     delimiter         : bright_green

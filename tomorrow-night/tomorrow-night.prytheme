@@ -1,7 +1,7 @@
 ---
 meta:
   theme-name  : tomorrow-night
-  version     : 5
+  version     : 6
   color-depth : 256
   description : You should have Tomorrow-Night colors as your terminal colors
   author      : Jeff Sandberg <paradox460@gmail.com>,
@@ -32,7 +32,7 @@ theme:
     delimiter         : green
   string:
     self              : green
-    content           :
+    content           : green
     modifier          : green
     escape            : green
     delimiter         : green

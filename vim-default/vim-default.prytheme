@@ -1,7 +1,7 @@
 ---
 meta:
   theme-name  : vim-default
-  version     : 2
+  version     : 3
   color-depth : 8
   description : For those familiar with the default vim colorscheme.
   author      : ☈king <rking-pry-vimscheme@sharpsaw.org>
@@ -31,7 +31,7 @@ theme:
     delimiter         : magenta
   string:
     self              : red
-    content           :
+    content           : red
     modifier          : red
     escape            : red
     delimiter         : magenta
