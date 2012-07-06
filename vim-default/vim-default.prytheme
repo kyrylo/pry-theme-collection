@@ -31,6 +31,7 @@ theme:
     delimiter         : magenta
   string:
     self              : red
+    content           :
     modifier          : red
     escape            : red
     delimiter         : magenta
