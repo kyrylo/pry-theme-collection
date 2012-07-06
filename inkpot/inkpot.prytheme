@@ -1,0 +1,39 @@
+---
+meta:
+  theme-name  : inkpot
+  version     : 1
+  color-depth : 256
+  description :
+  author      : Kyrylo Silin <kyrylosilin@gmail.com>,
+                Ciaran McCreesh
+
+theme:
+  class               : violaceous02
+  class_variable      : violaceous02
+  comment             : international_orange
+  constant            : violaceous02
+  error               : white (i)
+  float               : saumon
+  global_variable     : violaceous02
+  instance_variable   : violaceous02
+  integer             : saumon
+  keyword             : gray_tea_green
+  method              : violaceous02
+  predefined_constant : violaceous02
+  regexp:
+    self              : amethyst01
+    content           : gray_tea_green
+    delimiter         : amethyst01
+    modifier          : amethyst01
+    function          : amethyst01
+  shell:
+    self              : brass02
+    content           : brass02
+    delimiter         : orchid02
+  string:
+    self              : brass02
+    content           : on anthracite
+    modifier          : brass02
+    escape            : brass02
+    delimiter         : orchid02
+  symbol              : brass02
