@@ -12,6 +12,8 @@ to make subtle variations.)
 
 —☈king
 
+![Screenshot](/kyrylo/pry-theme-collection/raw/master/vim-default/screenshot.png)
+
 Screenshot information:
 
 | Attribute              | Value
