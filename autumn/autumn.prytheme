@@ -32,6 +32,7 @@ theme:
     delimiter         : asparagus
   string:
     self              : asparagus
+    content           :
     modifier          : asparagus
     escape            : asparagus
     delimiter         : asparagus

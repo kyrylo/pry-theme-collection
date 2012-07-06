@@ -32,6 +32,7 @@ theme:
     delimiter         : green
   string:
     self              : green
+    content           :
     modifier          : green
     escape            : green
     delimiter         : green
