@@ -1,0 +1,39 @@
+---
+meta:
+  theme-name  : xoria256
+  version     : 1
+  color-depth : 256
+  description :
+  author      : Kyrylo Silin <kyrylosilin@gmail.com>,
+                Dmitriy Y. Zotikov (xio) <xio@ungrund.org>
+
+theme:
+  class               : bluish03
+  class_variable      : lilac02
+  comment             : gray
+  constant            : bluish03
+  error               : white on maroon01
+  float               : tan
+  global_variable     : lilac02
+  instance_variable   : lilac02
+  integer             : tan
+  keyword             : moss_green
+  method              : lilac02
+  predefined_constant : lilac02
+  regexp:
+    self              : puce01
+    content           : perhydor
+    delimiter         : puce01
+    modifier          : puce01
+    function          : puce01
+  shell:
+    self              : perhydor
+    content           : perhydor
+    delimiter         : puce01
+  string:
+    self              : perhydor
+    content           : perhydor
+    modifier          : perhydor
+    escape            : perhydor
+    delimiter         : puce01
+  symbol              : perhydor
