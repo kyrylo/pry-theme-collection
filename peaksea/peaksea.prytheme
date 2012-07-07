@@ -1,0 +1,39 @@
+---
+meta:
+  theme-name  : peaksea
+  version     : 1
+  color-depth : 256
+  description :
+  author      : Kyrylo Silin <kyrylosilin@gmail.com>,
+                Pan, Shi Zhu
+
+theme:
+  class               : denim01 (b)
+  class_variable      : orchid01
+  comment             : khaki01
+  constant            : denim01 (b)
+  error               : ochre
+  float               : khaki02
+  global_variable     : orchid01
+  instance_variable   : orchid01
+  integer             : khaki02
+  keyword             : sea_green01
+  method              : orchid01
+  predefined_constant : orchid01
+  regexp:
+    self              : khaki02
+    content           : dark_turquoise
+    delimiter         : khaki02
+    modifier          : khaki02
+    function          : dark_turquoise
+  shell:
+    self              : dark_turquoise
+    content           : dark_turquoise
+    delimiter         : khaki02
+  string:
+    self              : dark_turquoise
+    content           : dark_turquoise
+    modifier          : dark_turquoise
+    escape            : dark_turquoise
+    delimiter         : khaki02
+  symbol              : dark_turquoise
