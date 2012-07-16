@@ -5,12 +5,10 @@ For those familiar with vim's unchanged color scheme.
 
 I figure it's useful to have consistency.
 
-Once I find a really good 256-color vim theme, I'll port that to pry as well
-(though, without patches, the CodeRay gem has the limit that it doesn't
-distinguish between various keywords or types of strings, so it won't be easy
-to make subtle variations.)
+For a similar idea, but using a bit more of the capabilities of 256 colors,
+check out the `vim-detailed` scheme.
 
-—☈king
+—☈king <rking-pry-vim256scheme@sharpsaw.org>
 
 ![Screenshot](/kyrylo/pry-theme-collection/raw/master/vim-default/screenshot.png)
 
