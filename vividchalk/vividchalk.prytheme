@@ -1,7 +1,7 @@
 ---
 meta:
   theme-name  : vividchalk
-  version     : 2
+  version     : 3
   color-depth : 256
   description : Based on the Vibrant Ink theme
   author      : Kyrylo Silin <kyrylosilin@gmail.com>, Tim Pope
@@ -20,11 +20,10 @@ theme:
   method              : pistachio03
   predefined_constant : gold
   regexp:
-    self              : toad_in_love01
-    content           : bluish01
+    self              : bluish01
+    content           : toad_in_love01
     delimiter         : bluish01
     modifier          : bluish01
-    function          : bluish01
   shell:
     self              : bright_green
     content           : bright_green
@@ -32,7 +31,5 @@ theme:
   string:
     self              : bright_green
     content           : bright_green
-    modifier          : bright_green
-    escape            : bright_green
     delimiter         : bright_green
   symbol              : teal01

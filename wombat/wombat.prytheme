@@ -1,10 +1,11 @@
 ---
 meta:
   theme-name  : wombat
-  version     : 1
+  version     : 2
   color-depth : 256
   description : Dark gray color scheme sharing some similarities with Desert
-  author      : Kyrylo Silin <kyrylosilin@gmail.com>, Lars Nielsen
+  author      : Kyrylo Silin <kyrylosilin@gmail.com>,
+                Lars Nielsen
 
 theme:
   class               : pistachio04
@@ -24,15 +25,12 @@ theme:
     content           : pale_green02
     delimiter         : (d)
     modifier          : (d)
-    function          : (d)
   shell:
-    self              : pale_green02
+    self              : (d)
     content           : pale_green02
     delimiter         : (d)
   string:
     self              : pale_green02
     content           : pale_green02
-    modifier          : pale_green02
-    escape            : pale_green02
     delimiter         : pale_green02
   symbol              : dark_salmon (b)

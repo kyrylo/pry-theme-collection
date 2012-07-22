@@ -1,7 +1,7 @@
 ---
 meta:
   theme-name  : peaksea
-  version     : 1
+  version     : 2
   color-depth : 256
   description :
   author      : Kyrylo Silin <kyrylosilin@gmail.com>,
@@ -25,15 +25,12 @@ theme:
     content           : dark_turquoise
     delimiter         : khaki02
     modifier          : khaki02
-    function          : dark_turquoise
   shell:
-    self              : dark_turquoise
+    self              : khaki02
     content           : dark_turquoise
     delimiter         : khaki02
   string:
-    self              : dark_turquoise
+    self              : khaki02
     content           : dark_turquoise
-    modifier          : dark_turquoise
-    escape            : dark_turquoise
     delimiter         : khaki02
   symbol              : dark_turquoise
