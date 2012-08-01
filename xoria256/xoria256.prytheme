@@ -1,7 +1,7 @@
 ---
 meta:
   theme-name  : xoria256
-  version     : 2
+  version     : 3
   color-depth : 256
   description :
   author      : Kyrylo Silin <kyrylosilin@gmail.com>,
@@ -15,6 +15,7 @@ theme:
   error               : white on maroon01
   float               : tan
   global_variable     : lilac02
+  inline_delimiter    : puce01
   instance_variable   : lilac02
   integer             : tan
   keyword             : moss_green
@@ -22,15 +23,21 @@ theme:
   predefined_constant : lilac02
   regexp:
     self              : puce01
+    char              : puce01
     content           : perhydor
     delimiter         : puce01
     modifier          : puce01
+    escape            : puce01
   shell:
     self              : puce01
+    char              : puce01
     content           : perhydor
     delimiter         : puce01
+    escape            : puce01
   string:
     self              : puce01
+    char              : puce01
     content           : perhydor
     delimiter         : puce01
+    escape            : puce01
   symbol              : perhydor

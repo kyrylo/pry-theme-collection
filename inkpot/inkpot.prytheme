@@ -1,7 +1,7 @@
 ---
 meta:
   theme-name  : inkpot
-  version     : 3
+  version     : 4
   color-depth : 256
   description :
   author      : Kyrylo Silin <kyrylosilin@gmail.com>,
@@ -15,6 +15,7 @@ theme:
   error               : white (i)
   float               : saumon
   global_variable     : violaceous02
+  inline_delimiter    : orchid02
   instance_variable   : violaceous02
   integer             : saumon
   keyword             : gray_tea_green
@@ -22,15 +23,21 @@ theme:
   predefined_constant : violaceous02
   regexp:
     self              : amethyst01
+    char              : orchid02
     content           : gray_tea_green
     delimiter         : amethyst01
     modifier          : amethyst01
+    escape            : orchid02
   shell:
     self              : orchid02
+    char              : orchid02
     content           : brass02
     delimiter         : orchid02
+    escape            : orchid02
   string:
     self              : orchid02
+    char              : orchid02
     content           : brass02 on anthracite
     delimiter         : orchid02
+    escape            : orchid02
   symbol              : brass02
