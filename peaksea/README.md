@@ -1,7 +1,7 @@
 Peaksea for Pry
 ==============
 
-![Screenshot](/kyrylo/pry-theme-collection/raw/master/peaksea/screenshot.png)
+![Screenshot](./screenshot.png)
 
 Screenshot information:
 

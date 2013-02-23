@@ -1,7 +1,7 @@
 Xoria256 for Pry
 ==============
 
-![Screenshot](/kyrylo/pry-theme-collection/raw/master/xoria256/screenshot.png)
+![Screenshot](./screenshot.png)
 
 Screenshot information:
 
