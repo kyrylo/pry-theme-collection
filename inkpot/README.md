@@ -3,7 +3,7 @@ Inkpot for Pry
 
 This Inkpot isn't really the same as the real one.
 
-![Screenshot](/kyrylo/pry-theme-collection/raw/master/inkpot/screenshot.png)
+![Screenshot](./screenshot.png)
 
 Screenshot information:
 

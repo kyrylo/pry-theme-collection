@@ -1,7 +1,7 @@
 Autumn for Pry
 =================
 
-![Screenshot](/kyrylo/pry-theme-collection/raw/master/autumn/screenshot.png)
+![Screenshot](./screenshot.png)
 
 Screenshot information:
 
