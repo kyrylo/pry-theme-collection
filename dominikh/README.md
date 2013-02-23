@@ -1,4 +1,4 @@
-![Screenshot](/kyrylo/pry-theme-collection/raw/master/dominikh/screenshot.png)
+![Screenshot](./screenshot.png)
 
 # Screenshot Info
 
